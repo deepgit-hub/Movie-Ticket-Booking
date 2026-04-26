@@ -5,7 +5,7 @@ class MovieTicketBookingSystem
     public static void main(String args[])
     {
     Scanner scan = new Scanner(System.in);
-    String[] movies={"Leo","Dhurandhar","F1","Sirai","Rapunzel","Vikram","Jailer"};
+    String[] movies={"Leo","Dhurandhar","F1","Sirai","LIK","Vikram","Jailer"};
     int[] screen={1,2,2,3,3,3,3};
     int[] capacity={500,350,350,200,200,200,200};
     int[] price={250,200,200,180,180,180,180};
