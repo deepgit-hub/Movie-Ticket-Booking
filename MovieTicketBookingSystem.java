@@ -43,7 +43,7 @@ class MovieTicketBookingSystem
         System.out.println("Ticket Price     : "+price[index]);
         System.out.println("Screen           : "+screen[index]);
         System.out.println("Seats Available  : "+capacity[index]);
-        System.out.println("Choose Timing");
+        System.out.println("Show Timings");
         for(int i=0;i<timing[index].length;i++)
         {
             System.out.println(i+1+" . "+timing[index][i]);
